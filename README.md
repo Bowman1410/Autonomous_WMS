@@ -31,6 +31,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Authors
 * Ndalo - Software Engineering Co-Lead
 * Fanele - Software Engineering Co-Lead
-* Tyler - Robotics Lead
 * Iain - Data Science & Machine Learning Lead
 
